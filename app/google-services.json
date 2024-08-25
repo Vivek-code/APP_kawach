@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788291729537",
+    "project_id": "kawach-fb042",
+    "storage_bucket": "kawach-fb042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788291729537:android:650a86dfc4b4ca70447580",
+        "android_client_info": {
+          "package_name": "com.example.kawach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4jBVLj_BoewwlqmK58dfB2Upb3hdFXHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

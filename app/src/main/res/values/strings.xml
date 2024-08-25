@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KAWACH</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">click to login</string>
+    <string name="click_to_register">click to register</string>
+    <string name="logout">logout</string>
+    <string name="web_app_link">web app link</string>
+    <string name="important_helplines">IMPORTANT HELPLINES</string>
+    <string name="police">POLICE</string>
+    <string name="Fire">FIRE</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="women_helpline">Women Helpline</string>
+    <string name="women_helpline_domestic_abuse">Women Helpline Domestic Abuse</string>
+    <string name="helpline">HELPLINE</string>
+    <string name="web_app">WEB APP</string>
+    <string name="sos">SOS</string>
+    <string name="magnetometer">magnetometer</string>
+    <string name="detect_camera_microphone">DETECT CAMERA/MICROPHONE</string>
+    <string name="magnetic_field_strength">Magnetic Field Strength:</string>
+</resources>

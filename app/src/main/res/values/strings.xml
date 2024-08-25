@@ -20,4 +20,8 @@
     <string name="magnetometer">magnetometer</string>
     <string name="detect_camera_microphone">DETECT CAMERA/MICROPHONE</string>
     <string name="magnetic_field_strength">Magnetic Field Strength:</string>
+    <string name="kawach">KAWACH</string>
+    <string name="gmail_sos">gmail_sos</string>
+    <string name="nearby_police_station_and_hospitals">nearby police station and hospitals</string>
+    <string name="nearby_police_station_hospitals">NEARBY POLICE STATION/HOSPITALS</string>
 </resources>

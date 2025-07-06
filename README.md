@@ -21,9 +21,13 @@ Kawach uses the **Avalanche Blockchain** to log complaints, guaranteeing **tampe
 
 ---
 
-## 🖼️ Adding Images in README
+## 🖼️ Adding Images of project
+## web UI
 ![App Interface](./assets/4071e7f6-566b-40ae-a8a0-3f22ac0eb3dd.png)
+## Web complaint
 ![App Interface](./assets/4a6d915a-f47d-486b-bb28-675c82572eca.png)
+## APP UI
 ![App Interface](./assets/a73488e7-c37b-4dfb-a09d-4836826a9c21.jpeg)
+## Realtime Location tracking
 ![](./assets/c89a6584-0314-47c7-a3cb-c3480fe15f1b.jpeg)
 

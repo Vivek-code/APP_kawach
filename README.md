@@ -1,17 +1,30 @@
-Kawach is a comprehensive Android application designed with the safety and security of women in mind. It serves as a multi-functional tool that not only addresses the urgent need for safety in public and private spaces but also empowers users.
-Key Features:
-1.Anonymous reporting:
+# 📱 Kawach: Empowering Safety Through Technology
 
-Many individuals, especially women, hesitate to report issues due to fear of retaliation or judgment. The Kawach app allows users to raise complaints anonymously within institutions like colleges, schools, and IT sectors, ensuring their safety while still voicing their concerns through our webApp which is a feature of our android app.
-2.SOS:
+**Kawach** is a comprehensive Android application crafted to prioritize the safety and empowerment of women. With a range of cutting-edge features, it serves as a multi-functional tool addressing the urgent need for secure spaces while enabling users to act with confidence.
 
-In distress, every second counts. The SOS feature of the Kawach app allows users to send their current location via SMS to their safe contacts, even without internet access. This ensures that help can reach them quickly, reducing the risk of harm.
-3.Quick Access to Emergency Helplines:
+## 🚀 Key Features
 
-In emergencies, dialing a helpline number manually can be time-consuming and stressful. The app's automatic call feature to emergency helplines ensures that users can connect to help instantly, improving their chances of receiving timely assistance.
-4. Detection of Hidden cameras and microphones:
+### 1. 🕵️ Anonymous Reporting
+Many individuals—especially women—often hesitate to report harassment due to fear of retaliation. Kawach enables anonymous complaint registration within institutions such as colleges, schools, and IT sectors through its integrated **WebApp**, a core part of the Android app.
 
-This is the USP of our product. The magnetometer feature of our app detects hidden cameras, microphones, etc basically the magnetometer sensor of the phone measures the strength of magnetic field and whenever a electronic device is present in it's vicinity the magnetic field changes and it indicates the presence of a electronic device.
-5.Blockchain-Based Tamper-Proof Reporting:
+### 2. 🆘 SOS Alert System
+When seconds matter, the **SOS feature** allows users to instantly send their live GPS location via SMS to selected emergency contacts. This works even **without internet access**, helping ensure swift responses in critical situations.
 
-Kawach utilizes the Avalanche blockchain to securely store all complaints raised through the app. This ensures that the records are tamper-proof, meaning they cannot be altered or deleted by any party. By leveraging Avalanche's decentralized and immutable technology, the app provides a transparent and trustworthy platform for users to report issues, ensuring that their complaints
+### 3. 📞 Emergency Helpline Integration
+Manually dialing helpline numbers during emergencies can be stressful. Kawach’s one-tap **Auto-Call** function ensures instant connection with verified emergency helplines—saving time when it’s most needed.
+
+### 4. 📷 Hidden Camera & Microphone Detection
+Our unique **magnetometer-based detection system** acts as your invisible shield. By monitoring variations in magnetic fields, Kawach can detect hidden electronic devices—offering users protection from covert surveillance.
+
+### 5. 🔗 Blockchain-Based Complaint System
+Kawach uses the **Avalanche Blockchain** to log complaints, guaranteeing **tamper-proof**, decentralized, and immutable records. No complaint can be altered or deleted, reinforcing transparency and trust in the reporting process.
+
+---
+
+## 🖼️ Adding Images in README
+![App Interface](./assets/4071e7f6-566b-40ae-a8a0-3f22ac0eb3dd.png)
+
+You can include images in your `README.md` using the following Markdown syntax:
+
+```markdown
+![App Interface](./assets/screenshot.png)
